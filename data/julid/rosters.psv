@@ -1,4 +1,4 @@
-# league 17676 Julid NBA League, 12 teams, scraped 2026-10-15T21:53:02.700Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
+# league 17676 Julid NBA League, 12 teams, scraped 2026-10-15T23:02:35.390Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
 1|The Black Order|6404|Tyrese Haliburton|PG|IND-PG,SG|
 1|The Black Order|6205|N. Alexander-Walker|SG|ATL-PG,SG|
 1|The Black Order|6016|Trae Young|G|WAS-PG|
@@ -46,10 +46,10 @@
 4|Frontal II|5324|Zach LaVine|F|SAC-PG,SG,SF|Q
 4|Frontal II|10294|Alex Sarr|C|WAS-C|
 4|Frontal II|5197|Rudy Gobert|C|MIN-C|
-4|Frontal II|6558|Alperen Şengün|Util|HOU-PF,C|Q
+4|Frontal II|6558|Alperen Şengün|Util|HOU-PF,C|
 4|Frontal II|10100|Keyonte George|Util|UTA-PG,SG|
 4|Frontal II|6018|Wendell Carter Jr.|BN|ORL-C|
-4|Frontal II|5727|Fred VanVleet|BN|HOU-PG|Q
+4|Frontal II|5727|Fred VanVleet|BN|HOU-PG|
 4|Frontal II|6696|Bennedict Mathurin|BN|NOP-SG,SF|
 5|AK47 Shoot|6022|Shai Gilgeous-Alexander|PG|OKC-PG|
 5|AK47 Shoot|10108|Amen Thompson|SG|HOU-PG,SG|
@@ -67,9 +67,9 @@
 6|13 Mc donald|5638|Jamal Murray|PG|DEN-PG|
 6|13 Mc donald|6422|Desmond Bane|SG|ORL-SG,SF|
 6|13 Mc donald|6418|Payton Pritchard|G|BOS-PG|
-6|13 Mc donald|5843|Josh Hart|SF|NYK-SG,SF|Q
+6|13 Mc donald|5843|Josh Hart|SF|NYK-SG,SF|
 6|13 Mc donald|6692|Chet Holmgren|PF|OKC-PF,C|Q
-6|13 Mc donald|5836|OG Anunoby|F|NYK-SF,PF|Q
+6|13 Mc donald|5836|OG Anunoby|F|NYK-SF,PF|
 6|13 Mc donald|5352|Nikola Jokić|C|DEN-C|
 6|13 Mc donald|10274|Kel'el Ware|C|MIL-C|
 6|13 Mc donald|6516|Jalen Suggs|Util|ORL-PG,SG|
@@ -77,7 +77,7 @@
 6|13 Mc donald|6721|Andrew Nembhard|BN|IND-PG,SG|Q
 6|13 Mc donald|6226|Daniel Gafford|BN|DAL-C|Q
 6|13 Mc donald|5482|Bobby Portis Jr.|BN|MIA-PF,C|
-7|Win-D|6044|Jalen Brunson|PG|NYK-PG|Q
+7|Win-D|6044|Jalen Brunson|PG|NYK-PG|
 7|Win-D|5473|Devin Booker|SG|PHX-PG,SG|Q
 7|Win-D|6734|Ryan Rollins|G|MIL-PG,SG|Q
 7|Win-D|6702|Jalen Williams|SF|OKC-SF,PF|
@@ -105,7 +105,7 @@
 8|Bebitoo’s Team|4622|Jrue Holiday|BN|POR-PG,SG|
 9|Sigma Team|6395|LaMelo Ball|PG|MIN-PG|
 9|Sigma Team|10468|Cooper Flagg|SG|DAL-SG,SF,PF|Q
-9|Sigma Team|4244|Kevin Durant|G|HOU-SG,SF,PF|Q
+9|Sigma Team|4244|Kevin Durant|G|HOU-SG,SF,PF|
 9|Sigma Team|10104|Brandon Miller|SF|CHA-SF,PF|
 9|Sigma Team|5294|Joel Embiid|C|PHI-C|Q
 9|Sigma Team|5835|Jarrett Allen|C|CLE-C|
@@ -132,8 +132,8 @@
 11|Luxus|6413|Tyrese Maxey|PG|PHI-PG|
 11|Luxus|6559|Trey Murphy III|SG|NOP-SG,SF|
 11|Luxus|6698|Dyson Daniels|G|ATL-SG,SF|Q
-11|Luxus|6021|Mikal Bridges|SF|NYK-SF,PF|Q
-11|Luxus|5432|Karl-Anthony Towns|PF|NYK-PF,C|Q
+11|Luxus|6021|Mikal Bridges|SF|NYK-SF,PF|
+11|Luxus|5432|Karl-Anthony Towns|PF|NYK-PF,C|
 11|Luxus|10592|Cameron Boozer|F|MEM-PF|
 11|Luxus|10285|Donovan Clingan|C|POR-C|
 11|Luxus|6163|Zion Williamson|C|NOP-PF,C|
