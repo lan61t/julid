@@ -1,4 +1,4 @@
-# league 17676 Julid NBA League, 12 teams, scraped 2026-10-15T23:02:35.390Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
+# league 17676 Julid NBA League, 12 teams, scraped 2026-10-16T11:02:54.731Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
 1|The Black Order|6404|Tyrese Haliburton|PG|IND-PG,SG|
 1|The Black Order|6205|N. Alexander-Walker|SG|ATL-PG,SG|
 1|The Black Order|6016|Trae Young|G|WAS-PG|
@@ -34,10 +34,10 @@
 3|J.R|6703|Jalen Duren|C|DET-C|
 3|J.R|5640|Jakob Poeltl|C|TOR-C|
 3|J.R|10599|AJ Dybantsa|Util|WAS-SF|
-3|J.R|6733|Moussa Diabaté|Util|CHA-C|
+3|J.R|6047|Mitchell Robinson|Util|BOS-C|
 3|J.R|10582|Darius Acuff Jr.|BN|SAC-PG|Q
 3|J.R|6174|P.J. Washington|BN|DAL-PF,C|
-3|J.R|10462|Ace Bailey|BN|UTA-SF,PF|
+3|J.R|6549|Jonathan Kuminga|BN|MIN-SF,PF|
 4|Frontal II|6355|Anthony Edwards|PG|MIN-PG,SG|
 4|Frontal II|4563|James Harden|SG|CLE-PG,SG|
 4|Frontal II|6513|Jalen Green|G|PHX-SG,SF|Q
@@ -50,7 +50,7 @@
 4|Frontal II|10100|Keyonte George|Util|UTA-PG,SG|
 4|Frontal II|6018|Wendell Carter Jr.|BN|ORL-C|
 4|Frontal II|5727|Fred VanVleet|BN|HOU-PG|
-4|Frontal II|6696|Bennedict Mathurin|BN|NOP-SG,SF|
+4|Frontal II|6745|Gui Santos|BN|GSW-SF,PF|
 5|AK47 Shoot|6022|Shai Gilgeous-Alexander|PG|OKC-PG|
 5|AK47 Shoot|10108|Amen Thompson|SG|HOU-PG,SG|
 5|AK47 Shoot|5842|Derrick White|G|BOS-PG,SG|
@@ -67,13 +67,13 @@
 6|13 Mc donald|5638|Jamal Murray|PG|DEN-PG|
 6|13 Mc donald|6422|Desmond Bane|SG|ORL-SG,SF|
 6|13 Mc donald|6418|Payton Pritchard|G|BOS-PG|
-6|13 Mc donald|5843|Josh Hart|SF|NYK-SG,SF|
+6|13 Mc donald|5843|Josh Hart|SF|NYK-SG,SF|Q
 6|13 Mc donald|6692|Chet Holmgren|PF|OKC-PF,C|Q
 6|13 Mc donald|5836|OG Anunoby|F|NYK-SF,PF|
 6|13 Mc donald|5352|Nikola Jokić|C|DEN-C|
 6|13 Mc donald|10274|Kel'el Ware|C|MIL-C|
 6|13 Mc donald|6516|Jalen Suggs|Util|ORL-PG,SG|
-6|13 Mc donald|10107|Cason Wallace|Util|OKC-PG,SG,SF|
+6|13 Mc donald|10107|Cason Wallace|Util|OKC-PG,SG,SF|Q
 6|13 Mc donald|6721|Andrew Nembhard|BN|IND-PG,SG|Q
 6|13 Mc donald|6226|Daniel Gafford|BN|DAL-C|Q
 6|13 Mc donald|5482|Bobby Portis Jr.|BN|MIA-PF,C|
@@ -88,7 +88,8 @@
 7|Win-D|5767|De'Aaron Fox|Util|SAS-PG|
 7|Win-D|10288|Reed Sheppard|Util|HOU-PG,SG|
 7|Win-D|10092|Jaime Jaquez Jr.|BN|MIL-SG,SF,PF|Q
-7|Win-D|6411|Saddiq Bey|BN|NOP-SF,PF|
+7|Win-D|10095|Anthony Black|BN|ORL-PG,SG,SF|Q
+7|Win-D|6707|Tari Eason|BN|HOU-SG,SF,PF|
 7|Win-D|5327|Jusuf Nurkić|IL|UTA-C|O
 8|Bebitoo’s Team|6548|Josh Giddey|PG|CHI-PG,SG|
 8|Bebitoo’s Team|10450|Kon Knueppel|SG|CHA-SG,SF|Q
@@ -127,7 +128,7 @@
 10|😇😇|5660|Dejounte Murray|Util|NOP-PG|Q
 10|😇😇|5471|Myles Turner|Util|MIL-C|Q
 10|😇😇|10571|Yaxel Lendeborg|BN|GSW-PF|
-10|😇😇|10304|Ajay Mitchell|BN|OKC-PG,SG|Q
+10|😇😇|10304|Ajay Mitchell|BN|OKC-PG,SG|
 10|😇😇|6173|Cameron Johnson|BN|DEN-SF,PF|
 11|Luxus|6413|Tyrese Maxey|PG|PHI-PG|
 11|Luxus|6559|Trey Murphy III|SG|NOP-SG,SF|
@@ -150,8 +151,8 @@
 12|Loe's|6693|Jabari Smith Jr.|F|HOU-PF,C|
 12|Loe's|10447|Khaman Maluach|C|PHX-C|
 12|Loe's|5295|Aaron Gordon|C|DEN-PF,C|
-12|Loe's|5161|CJ McCollum|Util|ATL-PG,SG|Q
-12|Loe's|5858|Dillon Brooks|Util|PHX-SF,PF|Q
-12|Loe's|10467|Dylan Harper|BN|SAS-PG,SG|
+12|Loe's|6403|Devin Vassell|Util|SAS-SG,SF|
+12|Loe's|10467|Dylan Harper|Util|SAS-PG,SG|
+12|Loe's|5858|Dillon Brooks|BN|PHX-SF,PF|Q
+12|Loe's|5161|CJ McCollum|BN|ATL-PG,SG|Q
 12|Loe's|10579|Aday Mara|BN|OKC-C|
-12|Loe's|6403|Devin Vassell|BN|SAS-SG,SF|

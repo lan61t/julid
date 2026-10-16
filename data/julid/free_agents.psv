@@ -1,5 +1,5 @@
-# Yahoo league 17676 free agents by % owned, scraped 2026-10-15T23:02:35.390Z. pid|name|[status ]NBA-positions|%owned
-10445|Egor Dëmin|BKN - PG,SG|33%
+# Yahoo league 17676 free agents by % owned, scraped 2026-10-16T11:02:54.731Z. pid|name|[status ]NBA-positions|%owned
+10445|Egor Dëmin|BKN - PG,SG|35%
 6733|Moussa Diabaté|CHA - C|27%
 4912|Jimmy Butler III|O GSW - SF,PF|56%
 10462|Ace Bailey|UTA - SF,PF|35%
@@ -7,20 +7,20 @@
 5069|Draymond Green|Q GSW - PF,C|29%
 10312|Pelle Larsson|Q MIA - SG,SF|15%
 6406|Aaron Nesmith|Q IND - SG,SF|18%
-10588|Mikel Brown Jr.|BKN - PG|16%
-6402|Jalen Smith|CHI - PF,C|10%
-6564|Isaiah Jackson|LAC - C|10%
+10588|Mikel Brown Jr.|BKN - PG|17%
+6402|Jalen Smith|CHI - PF,C|11%
+6564|Isaiah Jackson|LAC - C|11%
 6696|Bennedict Mathurin|NOP - SG,SF|19%
 6709|Jake LaRavia|LAL - SF,PF|10%
-6757|Scotty Pippen Jr.|MEM - PG|15%
+6757|Scotty Pippen Jr.|MEM - PG|14%
 6577|Herbert Jones|NOP - SG,SF|17%
 5350|Jerami Grant|MEM - SF,PF|18%
 10496|Maxime Raynaud|O SAC - C|25%
 10313|Oso Ighodaro|Q PHX - C|7%
-10276|Jared McCain|OKC - PG,SG|15%
-5600|Ben Simmons|Q SAC - PG|19%
+10276|Jared McCain|OKC - PG,SG|16%
+5600|Ben Simmons|Q SAC - PG|20%
 4472|Brook Lopez|LAC - C|12%
-6754|Julian Champagnie|Q SAS - SF,PF|18%
+6754|Julian Champagnie|Q SAS - SF,PF|17%
 5958|Deandre Ayton|WAS - C|13%
 10340|Jaylen Wells|MEM - SG,SF|8%
 6032|Grayson Allen|Q CHA - SG,SF|20%
@@ -32,16 +32,16 @@
 6035|Anfernee Simons|Q PHI - PG,SG|7%
 10315|Kyle Filipowski|Q UTA - PF,C|10%
 5187|Dennis Schröder|CHA - PG,SG|6%
-6450|Paul Reed|DET - PF,C|15%
+6450|Paul Reed|DET - PF,C|14%
 5194|Tim Hardaway Jr.|MIA - SG,SF|7%
-10277|Baylor Scheierman|BOS - SG,SF|2%
+10277|Baylor Scheierman|BOS - SG,SF|3%
 6038|Robert Williams III|POR - C|5%
 10316|Daniss Jenkins|DET - PG,SG|6%
 6408|Isaiah Stewart|O MEM - PF,C|15%
 6166|De'Andre Hunter|Q SAC - SF,PF|6%
 10510|Dylan Cardwell|O SAC - PF,C|5%
 6578|Miles McBride|NYK - PG,SG|4%
-5840|Kyle Kuzma|Q MIL - SF,PF|12%
+5840|Kyle Kuzma|Q MIL - SF,PF|11%
 10280|Terrence Shannon Jr.|MIN - SG,SF|2%
 5636|Kris Dunn|Q LAC - PG,SG|4%
 6412|Precious Achiuwa|Q SAC - PF,C|6%
@@ -51,10 +51,10 @@
 10469|Nique Clifford|SAC - SG,SF|3%
 10333|Jamal Shead|TOR - PG|4%
 10585|Keaton Wagler|LAC - SG|20%
-10459|Hugo González|BOS - SG,SF|2%
+10459|Hugo González|BOS - SG,SF|3%
 6019|Collin Sexton|Q LAL - PG,SG|16%
 6617|Jay Huff|IND - C|5%
-10099|Bilal Coulibaly|WAS - SG,SF|6%
+10099|Bilal Coulibaly|WAS - SG,SF|5%
 5747|Derrick Jones Jr.|LAC - SF,PF|3%
 5905|Royce O'Neale|CHA - SF,PF|4%
 6030|Kevin Huerter|DET - SG,SF|2%
@@ -63,7 +63,7 @@
 4892|Klay Thompson|MIA - SG,SF|13%
 10572|Morez Johnson Jr.|Q DAL - PF|7%
 5015|Andre Drummond|NYK - C|7%
-6705|Mark Williams|O PHX - C|22%
+6705|Mark Williams|O PHX - C|21%
 5824|Malik Monk|Q SAC - PG,SG|4%
 6073|Duncan Robinson|DET - SG,SF|7%
 5317|Marcus Smart|HOU - PG,SG|3%
@@ -97,7 +97,7 @@
 10273|Bub Carrington|WAS - PG,SG|2%
 6572|Santi Aldama|Q DAL - PF|6%
 6028|Donte DiVincenzo|O MIN - SG,SF|6%
-6725|Max Christie|DAL - SG,SF|5%
+6725|Max Christie|DAL - SG,SF|4%
 5903|Luke Kornet|Q SAS - C|3%
 6441|Isaiah Joe|DET - SG,SF|4%
 6632|Justin Champagnie|WAS - SF,PF|1%
@@ -132,7 +132,7 @@
 10292|Ryan Dunn|PHX - SF,PF|1%
 6679|Brandon Williams|GSW - PG|1%
 4487|Nicolas Batum|NA LAC - SF,PF|0%
-6766|Simone Fontecchio|MIA - SF,PF|1%
+6766|Simone Fontecchio|MIA - SF,PF|0%
 10069|Mouhamed Gueye|Q ATL - PF,C|0%
 5159|K. Caldwell-Pope|Q PHI - SG,SF|1%
 10308|Quinten Post|MEM - C|1%
@@ -165,7 +165,7 @@
 10110|Taylor Hendricks|MEM - PF,C|1%
 6058|Svi Mykhailiuk|UTA - SG,SF|0%
 10283|Cody Williams|MIN - SG,SF|1%
-6052|Jarred Vanderbilt|LAL - PF,C|1%
+6052|Jarred Vanderbilt|LAL - PF,C|0%
 6704|Ochai Agbaji|NA NYK - SG,SF|0%
 5357|Jordan Clarkson|NYK - SG,SF|1%
 10119|Kris Murray|MEM - SG,SF|0%
