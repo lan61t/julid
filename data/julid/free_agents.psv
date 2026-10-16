@@ -1,7 +1,6 @@
-# Yahoo league 17676 free agents by % owned, scraped 2026-10-16T11:02:54.731Z. pid|name|[status ]NBA-positions|%owned
+# Yahoo league 17676 free agents by % owned, scraped 2026-10-16T23:01:50.165Z. pid|name|[status ]NBA-positions|%owned
 10445|Egor Dëmin|BKN - PG,SG|35%
-6733|Moussa Diabaté|CHA - C|27%
-4912|Jimmy Butler III|O GSW - SF,PF|56%
+6733|Moussa Diabaté|Q CHA - C|27%
 10462|Ace Bailey|UTA - SF,PF|35%
 6411|Saddiq Bey|NOP - SF,PF|37%
 5069|Draymond Green|Q GSW - PF,C|29%
@@ -20,7 +19,8 @@
 10276|Jared McCain|OKC - PG,SG|16%
 5600|Ben Simmons|Q SAC - PG|20%
 4472|Brook Lopez|LAC - C|12%
-6754|Julian Champagnie|Q SAS - SF,PF|17%
+6754|Julian Champagnie|SAS - SF,PF|18%
+5464|Kristaps Porziņģis|O GSW - C|47%
 5958|Deandre Ayton|WAS - C|13%
 10340|Jaylen Wells|MEM - SG,SF|8%
 6032|Grayson Allen|Q CHA - SG,SF|20%
@@ -49,7 +49,7 @@
 6619|Sam Hauser|BOS - SF,PF|6%
 6499|Naji Marshall|DAL - SG,SF,PF|11%
 10469|Nique Clifford|SAC - SG,SF|3%
-10333|Jamal Shead|TOR - PG|4%
+10333|Jamal Shead|Q TOR - PG|4%
 10585|Keaton Wagler|LAC - SG|20%
 10459|Hugo González|BOS - SG,SF|3%
 6019|Collin Sexton|Q LAL - PG,SG|16%
@@ -59,9 +59,9 @@
 5905|Royce O'Neale|CHA - SF,PF|4%
 6030|Kevin Huerter|DET - SG,SF|2%
 4245|Al Horford|Q GSW - PF,C|4%
-6217|Keldon Johnson|Q SAS - SF,PF|9%
+6217|Keldon Johnson|SAS - SF,PF|9%
 4892|Klay Thompson|MIA - SG,SF|13%
-10572|Morez Johnson Jr.|Q DAL - PF|7%
+10572|Morez Johnson Jr.|DAL - PF|7%
 5015|Andre Drummond|NYK - C|7%
 6705|Mark Williams|O PHX - C|21%
 5824|Malik Monk|Q SAC - PG,SG|4%
@@ -74,7 +74,7 @@
 10327|Cam Spencer|MEM - PG,SG|6%
 6267|Max Strus|O LAC - SF,PF|7%
 6724|Jaylin Williams|Q OKC - PF,C|3%
-6254|Luguentz Dort|Q ATL - SG,SF|3%
+6254|Luguentz Dort|ATL - SG,SF|3%
 10279|Jaylon Tyson|CLE - SG,SF,PF|4%
 10121|Noah Clowney|BKN - PF,C|3%
 5582|T.J. McConnell|Q IND - PG|2%
@@ -85,11 +85,11 @@
 10101|Gradey Dick|LAC - SG,SF|2%
 10570|Allen Graves|TOR - PF|2%
 5073|Khris Middleton|Q WAS - SF,PF|1%
-6597|Aaron Wiggins|Q ATL - SG,SF|3%
+6597|Aaron Wiggins|ATL - SG,SF|3%
 6057|De'Anthony Melton|GSW - PG,SG|4%
 10296|Zaccharie Risacher|DAL - SF,PF|9%
 5823|Zach Collins|Q CHI - C|1%
-5009|Bradley Beal|O LAC - SG,SF|4%
+5009|Bradley Beal|O LAC - SG,SF|5%
 5959|Marvin Bagley III|DEN - PF,C|2%
 10574|Kingston Flemings|ATL - PG|5%
 6568|Bones Hyland|MIN - PG,SG|1%
@@ -97,8 +97,8 @@
 10273|Bub Carrington|WAS - PG,SG|2%
 6572|Santi Aldama|Q DAL - PF|6%
 6028|Donte DiVincenzo|O MIN - SG,SF|6%
-6725|Max Christie|DAL - SG,SF|4%
-5903|Luke Kornet|Q SAS - C|3%
+6725|Max Christie|Q DAL - SG,SF|4%
+5903|Luke Kornet|SAS - C|3%
 6441|Isaiah Joe|DET - SG,SF|4%
 6632|Justin Champagnie|WAS - SF,PF|1%
 6753|Keon Ellis|BKN - SG,SF|2%
@@ -116,7 +116,7 @@
 10263|Ronald Holland II|DET - SF,PF|2%
 6452|Sam Merrill|Q CLE - SG,SF|2%
 6552|Ziaire Williams|Q LAL - SG,SF|1%
-10278|Ja'Kobe Walter|TOR - PG,SG|2%
+10278|Ja'Kobe Walter|Q TOR - PG,SG|2%
 6791|Dominick Barlow|Q PHI - PF,C|1%
 6255|John Konchar|NA NYK - SG,SF|0%
 6613|Jose Alvarado|NYK - PG|1%
@@ -134,7 +134,7 @@
 4487|Nicolas Batum|NA LAC - SF,PF|0%
 6766|Simone Fontecchio|MIA - SF,PF|0%
 10069|Mouhamed Gueye|Q ATL - PF,C|0%
-5159|K. Caldwell-Pope|Q PHI - SG,SF|1%
+5159|K. Caldwell-Pope|PHI - SG,SF|1%
 10308|Quinten Post|MEM - C|1%
 6236|Terance Mann|BKN - SG,SF|0%
 10485|Will Richard|GSW - SG,SF|1%
