@@ -1,8 +1,8 @@
-# Yahoo league 17676 free agents by % owned, scraped 2026-10-17T12:59:49.333Z. pid|name|[status ]NBA-positions|%owned
+# Yahoo league 17676 free agents by % owned, scraped 2026-10-17T23:02:34.688Z. pid|name|[status ]NBA-positions|%owned
 6174|P.J. Washington|DAL - PF,C|36%
 10445|Egor Dëmin|BKN - PG,SG|36%
 6733|Moussa Diabaté|Q CHA - C|27%
-4912|Jimmy Butler III|O GSW - SF,PF|56%
+4912|Jimmy Butler III|O GSW - SF,PF|57%
 6411|Saddiq Bey|NOP - SF,PF|38%
 5069|Draymond Green|GSW - PF,C|29%
 10312|Pelle Larsson|Q MIA - SG,SF|15%
@@ -10,12 +10,12 @@
 10588|Mikel Brown Jr.|BKN - PG|18%
 4901|Tobias Harris|Q SAS - PF|18%
 6402|Jalen Smith|CHI - PF,C|12%
-6564|Isaiah Jackson|LAC - C|11%
+6564|Isaiah Jackson|LAC - C|12%
 6696|Bennedict Mathurin|NOP - SG,SF|19%
 6709|Jake LaRavia|LAL - SF,PF|10%
 6757|Scotty Pippen Jr.|MEM - PG|14%
 6577|Herbert Jones|NOP - SG,SF|17%
-5350|Jerami Grant|Q MEM - SF,PF|18%
+5350|Jerami Grant|P MEM - SF,PF|18%
 10496|Maxime Raynaud|O SAC - C|24%
 10313|Oso Ighodaro|Q PHX - C|7%
 10276|Jared McCain|OKC - PG,SG|17%
@@ -36,7 +36,7 @@
 6450|Paul Reed|DET - PF,C|14%
 5194|Tim Hardaway Jr.|MIA - SG,SF|8%
 10277|Baylor Scheierman|BOS - SG,SF|3%
-6038|Robert Williams III|Q POR - C|5%
+6038|Robert Williams III|POR - C|5%
 10316|Daniss Jenkins|DET - PG,SG|6%
 6408|Isaiah Stewart|O MEM - PF,C|15%
 6166|De'Andre Hunter|SAC - SF,PF|5%
@@ -44,14 +44,14 @@
 6578|Miles McBride|NYK - PG,SG|4%
 5840|Kyle Kuzma|MIL - SF,PF|11%
 10280|Terrence Shannon Jr.|MIN - SG,SF|2%
-5636|Kris Dunn|Q LAC - PG,SG|4%
+5636|Kris Dunn|LAC - PG,SG|4%
 6412|Precious Achiuwa|SAC - PF,C|6%
 5754|Alex Caruso|OKC - SG,SF|10%
-6619|Sam Hauser|Q BOS - SF,PF|6%
+6619|Sam Hauser|BOS - SF,PF|6%
 6499|Naji Marshall|DAL - SG,SF,PF|11%
 10469|Nique Clifford|SAC - SG,SF|3%
-10333|Jamal Shead|Q TOR - PG|4%
-10585|Keaton Wagler|LAC - SG|20%
+10333|Jamal Shead|TOR - PG|4%
+10585|Keaton Wagler|LAC - SG|21%
 10459|Hugo González|BOS - SG,SF|3%
 6019|Collin Sexton|Q LAL - PG,SG|16%
 6617|Jay Huff|IND - C|5%
@@ -59,7 +59,7 @@
 5747|Derrick Jones Jr.|LAC - SF,PF|3%
 5905|Royce O'Neale|CHA - SF,PF|4%
 6030|Kevin Huerter|DET - SG,SF|2%
-4245|Al Horford|Q GSW - PF,C|4%
+4245|Al Horford|GSW - PF,C|4%
 6217|Keldon Johnson|SAS - SF,PF|9%
 4892|Klay Thompson|MIA - SG,SF|13%
 10572|Morez Johnson Jr.|DAL - PF|7%
@@ -92,12 +92,12 @@
 5009|Bradley Beal|O LAC - SG,SF|6%
 5959|Marvin Bagley III|DEN - PF,C|1%
 10574|Kingston Flemings|ATL - PG|5%
-6568|Bones Hyland|P MIN - PG,SG|1%
+6568|Bones Hyland|MIN - PG,SG|1%
 10576|Brayden Burries|MIL - SG|8%
 10273|Bub Carrington|WAS - PG,SG|2%
 6572|Santi Aldama|Q DAL - PF|6%
 6028|Donte DiVincenzo|O MIN - SG,SF|6%
-6725|Max Christie|Q DAL - SG,SF|4%
+6725|Max Christie|DAL - SG,SF|4%
 5903|Luke Kornet|SAS - C|3%
 6441|Isaiah Joe|DET - SG,SF|4%
 6632|Justin Champagnie|WAS - SF,PF|1%
@@ -116,7 +116,7 @@
 10263|Ronald Holland II|DET - SF,PF|2%
 6452|Sam Merrill|Q CLE - SG,SF|2%
 6552|Ziaire Williams|LAL - SG,SF|1%
-10278|Ja'Kobe Walter|Q TOR - PG,SG|2%
+10278|Ja'Kobe Walter|TOR - PG,SG|2%
 6791|Dominick Barlow|Q PHI - PF,C|1%
 6255|John Konchar|NA NYK - SG,SF|0%
 6613|Jose Alvarado|NYK - PG|1%
@@ -145,7 +145,7 @@
 5651|Caris LeVert|MIL - SG,SF|0%
 10498|Sion James|CHA - SG,SF|0%
 10113|Ben Sheppard|IND - SG,SF|0%
-4246|Mike Conley|Q BOS - PG|1%
+4246|Mike Conley|BOS - PG|1%
 5637|Buddy Hield|CHI - SG,SF|1%
 5855|Thomas Bryant|CLE - C|0%
 10310|Justin Edwards|PHI - SF,PF|0%
@@ -171,7 +171,7 @@
 10119|Kris Murray|MEM - SG,SF|0%
 10397|Nae'Qwan Tomlin|Q CLE - SF,PF|0%
 6600|Jericho Sims|Q MIL - PF,C|0%
-10470|Kobe Sanders|Q LAC - SG,SF|0%
+10470|Kobe Sanders|LAC - SG,SF|0%
 6400|Obi Toppin|IND - SF,PF|2%
 10456|Danny Wolf|BKN - PF,C|1%
 6772|Pat Spencer|PHX - PG,SG|0%
