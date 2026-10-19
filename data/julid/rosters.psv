@@ -1,4 +1,4 @@
-# league 17676 Julid NBA League, 12 teams, scraped 2026-10-17T23:02:34.688Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
+# league 17676 Julid NBA League, 12 teams, scraped 2026-10-19T11:44:54.710Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
 1|The Black Order|6404|Tyrese Haliburton|PG|IND-PG,SG|
 1|The Black Order|6205|N. Alexander-Walker|SG|ATL-PG,SG|
 1|The Black Order|6016|Trae Young|G|WAS-PG|
@@ -63,7 +63,7 @@
 5|AK47 Shoot|6567|Quentin Grimes|Util|LAL-SG,SF|
 5|AK47 Shoot|5601|Brandon Ingram|BN|LAC-SG,SF,PF|O
 5|AK47 Shoot|4614|DeMar DeRozan|BN|DEN-SF,PF|
-5|AK47 Shoot|4901|Tobias Harris|BN|SAS-PF|Q
+5|AK47 Shoot|10462|Ace Bailey|BN|UTA-SF,PF|
 6|13 Mc donald|5638|Jamal Murray|PG|DEN-PG|
 6|13 Mc donald|6422|Desmond Bane|SG|ORL-SG,SF|
 6|13 Mc donald|6418|Payton Pritchard|G|BOS-PG|
@@ -108,6 +108,7 @@
 9|Sigma Team|10468|Cooper Flagg|SG|DAL-SG,SF,PF|
 9|Sigma Team|4244|Kevin Durant|G|HOU-SG,SF,PF|
 9|Sigma Team|10104|Brandon Miller|SF|CHA-SF,PF|
+9|Sigma Team|10050|Leonard Miller|PF|CHI-SF,PF|
 9|Sigma Team|5294|Joel Embiid|C|PHI-C|
 9|Sigma Team|5835|Jarrett Allen|C|CLE-C|
 9|Sigma Team|10454|VJ Edgecombe|Util|PHI-PG,SG|
@@ -116,7 +117,6 @@
 9|Sigma Team|6218|Kevin Porter Jr.|BN|MIL-PG,SG|
 9|Sigma Team|4897|Nikola Vučević|BN|ORL-C|
 9|Sigma Team|10097|Dereck Lively II|BN|DAL-C|Q
-9|Sigma Team|5600|Ben Simmons|BN|SAC-PG|
 10|😇😇|6606|Austin Reaves|PG|LAL-PG,SG,SF|
 10|😇😇|6212|Ty Jerome|SG|MEM-PG,SG|
 10|😇😇|4840|Kyrie Irving|G|DAL-PG|
@@ -132,20 +132,20 @@
 10|😇😇|6173|Cameron Johnson|BN|DEN-SF,PF|
 11|Luxus|6413|Tyrese Maxey|PG|PHI-PG|
 11|Luxus|6559|Trey Murphy III|SG|NOP-SG,SF|
-11|Luxus|6698|Dyson Daniels|G|ATL-SG,SF|
+11|Luxus|6164|Ja Morant|G|POR-PG|
 11|Luxus|6021|Mikal Bridges|SF|NYK-SF,PF|
 11|Luxus|5432|Karl-Anthony Towns|PF|NYK-PF,C|
 11|Luxus|10592|Cameron Boozer|F|MEM-PF|
 11|Luxus|10285|Donovan Clingan|C|POR-C|
 11|Luxus|6163|Zion Williamson|C|NOP-PF,C|
-11|Luxus|6164|Ja Morant|Util|POR-PG|
+11|Luxus|6698|Dyson Daniels|Util|ATL-SG,SF|
 11|Luxus|6580|Ayo Dosunmu|Util|MIN-PG,SG|
 11|Luxus|6751|Collin Gillespie|BN|PHX-PG,SG|
 11|Luxus|6551|Davion Mitchell|BN|MIA-PG|
 11|Luxus|6433|Tre Jones|BN|CHI-PG,SG|
 12|Loe's|5826|Donovan Mitchell|PG|CLE-PG,SG|
 12|Loe's|4896|Kawhi Leonard|SG|TOR-SG,SF,PF|
-12|Loe's|4612|Stephen Curry|G|GSW-PG|
+12|Loe's|4612|Stephen Curry|G|GSW-PG|P
 12|Loe's|6025|Michael Porter Jr.|SF|BKN-SF,PF|
 12|Loe's|10595|Caleb Wilson|PF|CHI-PF|
 12|Loe's|5858|Dillon Brooks|F|PHX-SF,PF|
