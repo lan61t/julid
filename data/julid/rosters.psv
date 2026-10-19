@@ -1,4 +1,4 @@
-# league 17676 Julid NBA League, 12 teams, scraped 2026-10-19T11:44:54.710Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
+# league 17676 Julid NBA League, 12 teams, scraped 2026-10-19T23:02:08.887Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
 1|The Black Order|6404|Tyrese Haliburton|PG|IND-PG,SG|
 1|The Black Order|6205|N. Alexander-Walker|SG|ATL-PG,SG|
 1|The Black Order|6016|Trae Young|G|WAS-PG|
@@ -6,7 +6,7 @@
 1|The Black Order|6691|Paolo Banchero|PF|ORL-PF|
 1|The Black Order|10265|Matas Buzelis|F|CHI-SF,PF|
 1|The Black Order|5832|John Collins|C|DET-PF,C|
-1|The Black Order|6219|Nic Claxton|C|CHI-C|Q
+1|The Black Order|6219|Nic Claxton|C|CHI-C|O
 1|The Black Order|6420|Jaden McDaniels|Util|MIN-SF|
 1|The Black Order|3704|LeBron James|Util|PHI-SF,PF|
 1|The Black Order|10590|Darryn Peterson|BN|UTA-SG|
@@ -21,7 +21,7 @@
 2|Mamba|6712|Walker Kessler|C|LAL-C|
 2|Mamba|5663|Ivica Zubac|C|IND-C|
 2|Mamba|10065|Toumani Camara|Util|POR-SF,PF|
-2|Mamba|10115|Brandin Podziemski|Util|GSW-PG,SG|
+2|Mamba|10115|Brandin Podziemski|Util|GSW-PG,SG|Q
 2|Mamba|6165|RJ Barrett|BN|TOR-SG,SF,PF|
 2|Mamba|6596|Sandro Mamukelashvili|BN|LAL-PF,C|
 2|Mamba|6171|Rui Hachimura|BN|LAC-SF,PF|
@@ -61,19 +61,19 @@
 5|AK47 Shoot|6581|Neemias Queta|C|BOS-C|
 5|AK47 Shoot|5292|Andrew Wiggins|Util|MIA-SG,SF,PF|
 5|AK47 Shoot|6567|Quentin Grimes|Util|LAL-SG,SF|
-5|AK47 Shoot|5601|Brandon Ingram|BN|LAC-SG,SF,PF|O
 5|AK47 Shoot|4614|DeMar DeRozan|BN|DEN-SF,PF|
 5|AK47 Shoot|10462|Ace Bailey|BN|UTA-SF,PF|
+5|AK47 Shoot|5601|Brandon Ingram|IL|LAC-SG,SF,PF|O
 6|13 Mc donald|5638|Jamal Murray|PG|DEN-PG|
 6|13 Mc donald|6422|Desmond Bane|SG|ORL-SG,SF|
 6|13 Mc donald|6418|Payton Pritchard|G|BOS-PG|
-6|13 Mc donald|5843|Josh Hart|SF|NYK-SG,SF|Q
-6|13 Mc donald|6692|Chet Holmgren|PF|OKC-PF,C|Q
+6|13 Mc donald|5843|Josh Hart|SF|NYK-SG,SF|
+6|13 Mc donald|6692|Chet Holmgren|PF|OKC-PF,C|
 6|13 Mc donald|5836|OG Anunoby|F|NYK-SF,PF|
 6|13 Mc donald|5352|Nikola Jokić|C|DEN-C|
 6|13 Mc donald|10274|Kel'el Ware|C|MIL-C|
 6|13 Mc donald|6516|Jalen Suggs|Util|ORL-PG,SG|
-6|13 Mc donald|10107|Cason Wallace|Util|OKC-PG,SG,SF|Q
+6|13 Mc donald|10107|Cason Wallace|Util|OKC-PG,SG,SF|
 6|13 Mc donald|6721|Andrew Nembhard|BN|IND-PG,SG|
 6|13 Mc donald|6226|Daniel Gafford|BN|DAL-C|
 6|13 Mc donald|5482|Bobby Portis Jr.|BN|MIA-PF,C|
@@ -114,7 +114,7 @@
 9|Sigma Team|10454|VJ Edgecombe|Util|PHI-PG,SG|
 9|Sigma Team|5012|Damian Lillard|Util|POR-PG|
 9|Sigma Team|5856|Isaiah Hartenstein|BN|OKC-C|
-9|Sigma Team|6218|Kevin Porter Jr.|BN|MIL-PG,SG|
+9|Sigma Team|6218|Kevin Porter Jr.|BN|MIL-PG,SG|NA
 9|Sigma Team|4897|Nikola Vučević|BN|ORL-C|
 9|Sigma Team|10097|Dereck Lively II|BN|DAL-C|Q
 10|😇😇|6606|Austin Reaves|PG|LAL-PG,SG,SF|
@@ -125,7 +125,7 @@
 10|😇😇|4725|Paul George|F|BOS-SF,PF|
 10|😇😇|6398|Onyeka Okongwu|C|ATL-C|
 10|😇😇|10443|Collin Murray-Boyles|C|TOR-PF,C|
-10|😇😇|5660|Dejounte Murray|Util|NOP-PG|Q
+10|😇😇|5660|Dejounte Murray|Util|NOP-PG|
 10|😇😇|5471|Myles Turner|Util|MIL-C|
 10|😇😇|10571|Yaxel Lendeborg|BN|GSW-PF|
 10|😇😇|10304|Ajay Mitchell|BN|OKC-PG,SG|

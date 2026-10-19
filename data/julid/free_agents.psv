@@ -1,4 +1,4 @@
-# Yahoo league 17676 free agents by % owned, scraped 2026-10-19T11:44:54.710Z. pid|name|[status ]NBA-positions|%owned
+# Yahoo league 17676 free agents by % owned, scraped 2026-10-19T23:02:08.887Z. pid|name|[status ]NBA-positions|%owned
 6174|P.J. Washington|DAL - PF,C|40%
 10445|Egor Dëmin|BKN - PG,SG|41%
 6733|Moussa Diabaté|Q CHA - C|28%
@@ -8,9 +8,9 @@
 10312|Pelle Larsson|Q MIA - SG,SF|17%
 6406|Aaron Nesmith|Q IND - SG,SF|18%
 10588|Mikel Brown Jr.|BKN - PG|21%
-4901|Tobias Harris|Q SAS - PF|19%
-6402|Jalen Smith|CHI - PF,C|15%
-6564|Isaiah Jackson|LAC - C|16%
+4901|Tobias Harris|O SAS - PF|19%
+6402|Jalen Smith|CHI - PF,C|16%
+6564|Isaiah Jackson|LAC - C|17%
 6696|Bennedict Mathurin|NOP - SG,SF|20%
 6709|Jake LaRavia|LAL - SF,PF|10%
 6757|Scotty Pippen Jr.|MEM - PG|15%
@@ -45,13 +45,13 @@
 5840|Kyle Kuzma|MIL - SF,PF|10%
 10280|Terrence Shannon Jr.|MIN - SG,SF|2%
 5636|Kris Dunn|LAC - PG,SG|4%
-6412|Precious Achiuwa|SAC - PF,C|6%
+6412|Precious Achiuwa|SAC - PF,C|7%
 5754|Alex Caruso|OKC - SG,SF|11%
 6619|Sam Hauser|BOS - SF,PF|6%
 6499|Naji Marshall|DAL - SG,SF,PF|11%
 10469|Nique Clifford|SAC - SG,SF|3%
 10333|Jamal Shead|TOR - PG|4%
-10585|Keaton Wagler|LAC - SG|21%
+10585|Keaton Wagler|LAC - SG|22%
 10459|Hugo González|BOS - SG,SF|5%
 6019|Collin Sexton|Q LAL - PG,SG|16%
 6617|Jay Huff|IND - C|5%
@@ -66,15 +66,14 @@
 5015|Andre Drummond|NYK - C|8%
 6705|Mark Williams|O PHX - C|18%
 5824|Malik Monk|Q SAC - PG,SG|3%
-6073|Duncan Robinson|DET - SG,SF|7%
+6073|Duncan Robinson|DET - SG,SF|8%
 5317|Marcus Smart|HOU - PG,SG|3%
 10070|GG Jackson|Q MEM - SF,PF,C|3%
 10448|Tre Johnson|WAS - PG,SG,SF|4%
 10449|Will Riley|WAS - SF,PF|2%
 6697|Shaedon Sharpe|O POR - PG,SG|8%
-10327|Cam Spencer|MEM - PG,SG|6%
-6267|Max Strus|O LAC - SF,PF|5%
-6724|Jaylin Williams|Q OKC - PF,C|2%
+6267|Max Strus|O LAC - SF,PF|6%
+6724|Jaylin Williams|OKC - PF,C|2%
 6254|Luguentz Dort|ATL - SG,SF|3%
 10279|Jaylon Tyson|CLE - SG,SF,PF|4%
 10121|Noah Clowney|BKN - PF,C|2%
@@ -112,12 +111,12 @@
 6206|Goga Bitadze|ORL - C|1%
 10476|Ryan Kalkbrenner|CHA - C|4%
 5739|Gary Payton II|GSW - SG,SF|1%
-6053|Bruce Brown|NA NYK - PG,SG|1%
+6053|Bruce Brown|NA NYK - PG,SG|0%
 10263|Ronald Holland II|DET - SF,PF|2%
 6452|Sam Merrill|Q CLE - SG,SF|1%
 6552|Ziaire Williams|LAL - SG,SF|1%
 10278|Ja'Kobe Walter|TOR - PG,SG|1%
-6791|Dominick Barlow|Q PHI - PF,C|1%
+6791|Dominick Barlow|O PHI - PF,C|1%
 6255|John Konchar|NA NYK - SG,SF|0%
 6613|Jose Alvarado|NYK - PG|1%
 4886|Jonas Valančiūnas|NA DEN - C|0%
@@ -133,7 +132,7 @@
 6679|Brandon Williams|GSW - PG|1%
 4487|Nicolas Batum|NA LAC - SF,PF|0%
 6766|Simone Fontecchio|MIA - SF,PF|0%
-10069|Mouhamed Gueye|Q ATL - PF,C|0%
+10069|Mouhamed Gueye|O ATL - PF,C|0%
 5159|K. Caldwell-Pope|PHI - SG,SF|1%
 10308|Quinten Post|MEM - C|1%
 6236|Terance Mann|BKN - SG,SF|0%
@@ -179,7 +178,7 @@
 10112|Julian Strawther|O DEN - SG,SF|1%
 10489|Jamir Watkins|O WAS - SG,SF|0%
 6076|Kenrich Williams|OKC - PF,C|0%
-5643|Taurean Prince|DET - SF,PF|0%
+5643|Taurean Prince|Q DET - SF,PF|0%
 6037|Landry Shamet|NYK - SG,SF|1%
 10078|Tristan Vukcevic|O WAS - C|0%
 6471|Anthony Gill|WAS - PF,C|0%
@@ -188,7 +187,7 @@
 6208|Matisse Thybulle|LAL - SG,SF|1%
 6776|Quenton Jackson|IND - PG,SG|0%
 6043|Jevon Carter|ORL - PG,SG|0%
-5356|Dwight Powell|DAL - C|0%
+5356|Dwight Powell|NA DAL - C|0%
 10064|Rayan Rupert|PHI - SG,SF|0%
 5764|Lonzo Ball|NA CLE - PG,SG|0%
 6604|Trendon Watford|NOP - PF|0%
@@ -199,3 +198,4 @@
 10051|Sidy Cissoko|POR - SF,PF|0%
 6210|Grant Williams|Q CHA - PF,C|0%
 6695|Jaden Ivey|NA CHI - PG,SG|0%
+10086|Jaylen Clark|MIN - SG,SF|0%
