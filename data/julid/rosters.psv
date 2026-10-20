@@ -1,16 +1,16 @@
-# league 17676 Julid NBA League, 12 teams, scraped 2026-10-19T23:02:08.887Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
+# league 17676 Julid NBA League, 12 teams, scraped 2026-10-20T14:26:32.905Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
 1|The Black Order|6404|Tyrese Haliburton|PG|IND-PG,SG|
 1|The Black Order|6205|N. Alexander-Walker|SG|ATL-PG,SG|
 1|The Black Order|6016|Trae Young|G|WAS-PG|
-1|The Black Order|6562|Jalen Johnson|SF|ATL-SF,PF|
+1|The Black Order|6711|Christian Braun|SF|DEN-SG,SF,PF|
 1|The Black Order|6691|Paolo Banchero|PF|ORL-PF|
 1|The Black Order|10265|Matas Buzelis|F|CHI-SF,PF|
 1|The Black Order|5832|John Collins|C|DET-PF,C|
 1|The Black Order|6219|Nic Claxton|C|CHI-C|O
 1|The Black Order|6420|Jaden McDaniels|Util|MIN-SF|
 1|The Black Order|3704|LeBron James|Util|PHI-SF,PF|
+1|The Black Order|6562|Jalen Johnson|BN|ATL-SF,PF|
 1|The Black Order|10590|Darryn Peterson|BN|UTA-SG|
-1|The Black Order|6711|Christian Braun|BN|DEN-SG,SF,PF|
 1|The Black Order|10440|Jeremiah Fears|BN|NOP-PG,SG|
 2|Mamba|6512|Cade Cunningham|PG|DET-PG,SG|
 2|Mamba|5602|Jaylen Brown|SG|PHI-SG,SF,PF|
@@ -33,9 +33,9 @@
 3|J.R|5318|Julius Randle|F|BKN-PF|
 3|J.R|6703|Jalen Duren|C|DET-C|
 3|J.R|5640|Jakob Poeltl|C|TOR-C|
+3|J.R|6047|Mitchell Robinson|Util|BOS-C|
 3|J.R|10599|AJ Dybantsa|Util|WAS-SF|Q
-3|J.R|10296|Zaccharie Risacher|Util|DAL-SF,PF|
-3|J.R|6047|Mitchell Robinson|BN|BOS-C|
+3|J.R|10296|Zaccharie Risacher|BN|DAL-SF,PF|
 3|J.R|10582|Darius Acuff Jr.|BN|SAC-PG|
 3|J.R|6549|Jonathan Kuminga|BN|MIN-SF,PF|
 4|Frontal II|6355|Anthony Edwards|PG|MIN-PG,SG|
@@ -63,13 +63,14 @@
 5|AK47 Shoot|6567|Quentin Grimes|Util|LAL-SG,SF|
 5|AK47 Shoot|4614|DeMar DeRozan|BN|DEN-SF,PF|
 5|AK47 Shoot|10462|Ace Bailey|BN|UTA-SF,PF|
+5|AK47 Shoot|10327|Cam Spencer|BN|MEM-PG,SG|
 5|AK47 Shoot|5601|Brandon Ingram|IL|LAC-SG,SF,PF|O
 6|13 Mc donald|5638|Jamal Murray|PG|DEN-PG|
 6|13 Mc donald|6422|Desmond Bane|SG|ORL-SG,SF|
 6|13 Mc donald|6418|Payton Pritchard|G|BOS-PG|
-6|13 Mc donald|5843|Josh Hart|SF|NYK-SG,SF|
+6|13 Mc donald|5836|OG Anunoby|SF|NYK-SF,PF|
 6|13 Mc donald|6692|Chet Holmgren|PF|OKC-PF,C|
-6|13 Mc donald|5836|OG Anunoby|F|NYK-SF,PF|
+6|13 Mc donald|5843|Josh Hart|F|NYK-SG,SF|
 6|13 Mc donald|5352|Nikola Jokić|C|DEN-C|
 6|13 Mc donald|10274|Kel'el Ware|C|MIL-C|
 6|13 Mc donald|6516|Jalen Suggs|Util|ORL-PG,SG|
@@ -82,14 +83,14 @@
 7|Win-D|6734|Ryan Rollins|G|MIL-PG,SG|
 7|Win-D|6702|Jalen Williams|SF|OKC-SF,PF|
 7|Win-D|5658|Pascal Siakam|PF|IND-PF,C|
-7|Win-D|6023|Miles Bridges|F|PHX-PF|
+7|Win-D|6707|Tari Eason|F|HOU-SG,SF,PF|
 7|Win-D|10444|Derik Queen|C|NOP-PF,C|
 7|Win-D|10094|Victor Wembanyama|C|SAS-C|
 7|Win-D|5767|De'Aaron Fox|Util|SAS-PG|
 7|Win-D|10288|Reed Sheppard|Util|HOU-PG,SG|
+7|Win-D|6023|Miles Bridges|BN|PHX-PF|
 7|Win-D|10092|Jaime Jaquez Jr.|BN|MIL-SG,SF,PF|
 7|Win-D|10095|Anthony Black|BN|ORL-PG,SG,SF|Q
-7|Win-D|6707|Tari Eason|BN|HOU-SG,SF,PF|
 7|Win-D|5327|Jusuf Nurkić|IL|UTA-C|O
 8|Bebitoo’s Team|6548|Josh Giddey|PG|CHI-PG,SG|
 8|Bebitoo’s Team|10450|Kon Knueppel|SG|CHA-SG,SF|Q
@@ -104,19 +105,19 @@
 8|Bebitoo’s Team|10289|Yves Missi|BN|NOP-C|
 8|Bebitoo’s Team|6720|Peyton Watson|BN|CLE-SF,PF|
 8|Bebitoo’s Team|4622|Jrue Holiday|BN|POR-PG,SG|Q
-9|Sigma Team|6395|LaMelo Ball|PG|MIN-PG|
+9|Sigma Team|10454|VJ Edgecombe|PG|PHI-PG,SG|
 9|Sigma Team|10468|Cooper Flagg|SG|DAL-SG,SF,PF|
-9|Sigma Team|4244|Kevin Durant|G|HOU-SG,SF,PF|
+9|Sigma Team|5012|Damian Lillard|G|POR-PG|
 9|Sigma Team|10104|Brandon Miller|SF|CHA-SF,PF|
 9|Sigma Team|10050|Leonard Miller|PF|CHI-SF,PF|
+9|Sigma Team|4244|Kevin Durant|F|HOU-SG,SF,PF|
 9|Sigma Team|5294|Joel Embiid|C|PHI-C|
-9|Sigma Team|5835|Jarrett Allen|C|CLE-C|
-9|Sigma Team|10454|VJ Edgecombe|Util|PHI-PG,SG|
-9|Sigma Team|5012|Damian Lillard|Util|POR-PG|
-9|Sigma Team|5856|Isaiah Hartenstein|BN|OKC-C|
-9|Sigma Team|6218|Kevin Porter Jr.|BN|MIL-PG,SG|NA
+9|Sigma Team|5856|Isaiah Hartenstein|C|OKC-C|
+9|Sigma Team|5835|Jarrett Allen|Util|CLE-C|
+9|Sigma Team|6395|LaMelo Ball|Util|MIN-PG|
 9|Sigma Team|4897|Nikola Vučević|BN|ORL-C|
 9|Sigma Team|10097|Dereck Lively II|BN|DAL-C|Q
+9|Sigma Team|10576|Brayden Burries|BN|MIL-SG|
 10|😇😇|6606|Austin Reaves|PG|LAL-PG,SG,SF|
 10|😇😇|6212|Ty Jerome|SG|MEM-PG,SG|
 10|😇😇|4840|Kyrie Irving|G|DAL-PG|
@@ -124,21 +125,21 @@
 10|😇😇|5185|Giannis Antetokounmpo|PF|MIA-PF,C|
 10|😇😇|4725|Paul George|F|BOS-SF,PF|
 10|😇😇|6398|Onyeka Okongwu|C|ATL-C|
-10|😇😇|10443|Collin Murray-Boyles|C|TOR-PF,C|
+10|😇😇|5471|Myles Turner|C|MIL-C|
 10|😇😇|5660|Dejounte Murray|Util|NOP-PG|
-10|😇😇|5471|Myles Turner|Util|MIL-C|
+10|😇😇|10304|Ajay Mitchell|Util|OKC-PG,SG|
+10|😇😇|10443|Collin Murray-Boyles|BN|TOR-PF,C|
 10|😇😇|10571|Yaxel Lendeborg|BN|GSW-PF|
-10|😇😇|10304|Ajay Mitchell|BN|OKC-PG,SG|
 10|😇😇|6173|Cameron Johnson|BN|DEN-SF,PF|
 11|Luxus|6413|Tyrese Maxey|PG|PHI-PG|
 11|Luxus|6559|Trey Murphy III|SG|NOP-SG,SF|
-11|Luxus|6164|Ja Morant|G|POR-PG|
+11|Luxus|6698|Dyson Daniels|G|ATL-SG,SF|
 11|Luxus|6021|Mikal Bridges|SF|NYK-SF,PF|
 11|Luxus|5432|Karl-Anthony Towns|PF|NYK-PF,C|
 11|Luxus|10592|Cameron Boozer|F|MEM-PF|
 11|Luxus|10285|Donovan Clingan|C|POR-C|
 11|Luxus|6163|Zion Williamson|C|NOP-PF,C|
-11|Luxus|6698|Dyson Daniels|Util|ATL-SG,SF|
+11|Luxus|6164|Ja Morant|Util|POR-PG|
 11|Luxus|6580|Ayo Dosunmu|Util|MIN-PG,SG|
 11|Luxus|6751|Collin Gillespie|BN|PHX-PG,SG|
 11|Luxus|6551|Davion Mitchell|BN|MIA-PG|
@@ -149,10 +150,10 @@
 12|Loe's|6025|Michael Porter Jr.|SF|BKN-SF,PF|
 12|Loe's|10595|Caleb Wilson|PF|CHI-PF|
 12|Loe's|5858|Dillon Brooks|F|PHX-SF,PF|
-12|Loe's|10447|Khaman Maluach|C|PHX-C|
 12|Loe's|5295|Aaron Gordon|C|DEN-PF,C|
+12|Loe's|10579|Aday Mara|C|OKC-C|
 12|Loe's|6403|Devin Vassell|Util|SAS-SG,SF|
 12|Loe's|10467|Dylan Harper|Util|SAS-PG,SG|
+12|Loe's|10447|Khaman Maluach|BN|PHX-C|
 12|Loe's|6693|Jabari Smith Jr.|BN|HOU-PF,C|
 12|Loe's|5161|CJ McCollum|BN|ATL-PG,SG|
-12|Loe's|10579|Aday Mara|BN|OKC-C|
