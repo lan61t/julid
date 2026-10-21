@@ -1,4 +1,4 @@
-# league 17676 Julid NBA League, 12 teams, scraped 2026-10-21T11:02:42.364Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
+# league 17676 Julid NBA League, 12 teams, scraped 2026-10-21T23:02:56.972Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
 1|The Black Order|6404|Tyrese Haliburton|PG|IND-PG,SG|
 1|The Black Order|6205|N. Alexander-Walker|SG|ATL-PG,SG|
 1|The Black Order|6016|Trae Young|G|WAS-PG|
@@ -115,12 +115,12 @@
 9|Sigma Team|10468|Cooper Flagg|PF|DAL-SG,SF,PF|
 9|Sigma Team|4244|Kevin Durant|F|HOU-SG,SF,PF|
 9|Sigma Team|4897|Nikola Vučević|C|ORL-C|
-9|Sigma Team|10050|Leonard Miller|Util|CHI-SF,PF|P
+9|Sigma Team|10050|Leonard Miller|Util|CHI-SF,PF|
 9|Sigma Team|10445|Egor Dëmin|Util|BKN-PG,SG|
 9|Sigma Team|10454|VJ Edgecombe|BN|PHI-PG,SG|
 9|Sigma Team|5294|Joel Embiid|BN|PHI-C|
 9|Sigma Team|5856|Isaiah Hartenstein|BN|OKC-C|
-9|Sigma Team|5835|Jarrett Allen|BN|CLE-C|
+9|Sigma Team|5835|Jarrett Allen|BN|CLE-C|Q
 10|😇😇|6606|Austin Reaves|PG|LAL-PG,SG,SF|
 10|😇😇|6212|Ty Jerome|SG|MEM-PG,SG|
 10|😇😇|4840|Kyrie Irving|G|DAL-PG|
@@ -142,9 +142,9 @@
 11|Luxus|6698|Dyson Daniels|F|ATL-SG,SF|
 11|Luxus|10285|Donovan Clingan|C|POR-C|
 11|Luxus|6163|Zion Williamson|C|NOP-PF,C|
-11|Luxus|6164|Ja Morant|Util|POR-PG|
 11|Luxus|6580|Ayo Dosunmu|Util|MIN-PG,SG|
-11|Luxus|6413|Tyrese Maxey|BN|PHI-PG|
+11|Luxus|6413|Tyrese Maxey|Util|PHI-PG|
+11|Luxus|6164|Ja Morant|BN|POR-PG|
 11|Luxus|6021|Mikal Bridges|BN|NYK-SF,PF|
 11|Luxus|5432|Karl-Anthony Towns|BN|NYK-PF,C|
 12|Loe's|5161|CJ McCollum|PG|ATL-PG,SG|
