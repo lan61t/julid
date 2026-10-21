@@ -1,4 +1,4 @@
-# league 17676 Julid NBA League, 12 teams, scraped 2026-10-20T14:26:32.905Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
+# league 17676 Julid NBA League, 12 teams, scraped 2026-10-20T23:02:39.107Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
 1|The Black Order|6404|Tyrese Haliburton|PG|IND-PG,SG|
 1|The Black Order|6205|N. Alexander-Walker|SG|ATL-PG,SG|
 1|The Black Order|6016|Trae Young|G|WAS-PG|
@@ -28,13 +28,13 @@
 3|J.R|6014|Luka Dončić|PG|LAL-PG,SG|
 3|J.R|6175|Tyler Herro|SG|MIL-PG,SG|
 3|J.R|6417|Immanuel Quickley|G|TOR-PG,SG|
-3|J.R|6550|Franz Wagner|SF|ORL-SF,PF|Q
-3|J.R|5827|Bam Adebayo|PF|MIA-PF,C|Q
+3|J.R|6550|Franz Wagner|SF|ORL-SF,PF|
+3|J.R|5827|Bam Adebayo|PF|MIA-PF,C|
 3|J.R|5318|Julius Randle|F|BKN-PF|
 3|J.R|6703|Jalen Duren|C|DET-C|
 3|J.R|5640|Jakob Poeltl|C|TOR-C|
 3|J.R|6047|Mitchell Robinson|Util|BOS-C|
-3|J.R|10599|AJ Dybantsa|Util|WAS-SF|Q
+3|J.R|10599|AJ Dybantsa|Util|WAS-SF|O
 3|J.R|10296|Zaccharie Risacher|BN|DAL-SF,PF|
 3|J.R|10582|Darius Acuff Jr.|BN|SAC-PG|
 3|J.R|6549|Jonathan Kuminga|BN|MIN-SF,PF|
@@ -90,17 +90,17 @@
 7|Win-D|10288|Reed Sheppard|Util|HOU-PG,SG|
 7|Win-D|6023|Miles Bridges|BN|PHX-PF|
 7|Win-D|10092|Jaime Jaquez Jr.|BN|MIL-SG,SF,PF|
-7|Win-D|10095|Anthony Black|BN|ORL-PG,SG,SF|Q
+7|Win-D|10095|Anthony Black|BN|ORL-PG,SG,SF|O
 7|Win-D|5327|Jusuf Nurkić|IL|UTA-C|O
 8|Bebitoo’s Team|6548|Josh Giddey|PG|CHI-PG,SG|
-8|Bebitoo’s Team|10450|Kon Knueppel|SG|CHA-SG,SF|Q
+8|Bebitoo’s Team|10450|Kon Knueppel|SG|CHA-SG,SF|O
 8|Bebitoo’s Team|6167|Darius Garland|G|LAC-PG|
 8|Bebitoo’s Team|5765|Jayson Tatum|SF|BOS-SF,PF|
 8|Bebitoo’s Team|5642|Domantas Sabonis|PF|SAC-PF,C|
 8|Bebitoo’s Team|6694|Keegan Murray|F|SAC-SF,PF|
 8|Bebitoo’s Team|10287|Zach Edey|C|MEM-C|
 8|Bebitoo’s Team|6571|Day'Ron Sharpe|C|BKN-C|
-8|Bebitoo’s Team|6169|Coby White|Util|CHA-PG,SG|Q
+8|Bebitoo’s Team|6169|Coby White|Util|CHA-PG,SG|O
 8|Bebitoo’s Team|10272|Kyshawn George|Util|WAS-SG,SF,PF|
 8|Bebitoo’s Team|10289|Yves Missi|BN|NOP-C|
 8|Bebitoo’s Team|6720|Peyton Watson|BN|CLE-SF,PF|
@@ -109,27 +109,27 @@
 9|Sigma Team|10468|Cooper Flagg|SG|DAL-SG,SF,PF|
 9|Sigma Team|5012|Damian Lillard|G|POR-PG|
 9|Sigma Team|10104|Brandon Miller|SF|CHA-SF,PF|
-9|Sigma Team|10050|Leonard Miller|PF|CHI-SF,PF|
+9|Sigma Team|10050|Leonard Miller|PF|CHI-SF,PF|P
 9|Sigma Team|4244|Kevin Durant|F|HOU-SG,SF,PF|
 9|Sigma Team|5294|Joel Embiid|C|PHI-C|
 9|Sigma Team|5856|Isaiah Hartenstein|C|OKC-C|
 9|Sigma Team|5835|Jarrett Allen|Util|CLE-C|
 9|Sigma Team|6395|LaMelo Ball|Util|MIN-PG|
 9|Sigma Team|4897|Nikola Vučević|BN|ORL-C|
-9|Sigma Team|10097|Dereck Lively II|BN|DAL-C|Q
+9|Sigma Team|10097|Dereck Lively II|BN|DAL-C|O
 9|Sigma Team|10576|Brayden Burries|BN|MIL-SG|
 10|😇😇|6606|Austin Reaves|PG|LAL-PG,SG,SF|
 10|😇😇|6212|Ty Jerome|SG|MEM-PG,SG|
 10|😇😇|4840|Kyrie Irving|G|DAL-PG|
 10|😇😇|5769|Lauri Markkanen|SF|UTA-SF,PF|
-10|😇😇|5185|Giannis Antetokounmpo|PF|MIA-PF,C|
+10|😇😇|10571|Yaxel Lendeborg|PF|GSW-PF|
 10|😇😇|4725|Paul George|F|BOS-SF,PF|
+10|😇😇|5185|Giannis Antetokounmpo|C|MIA-PF,C|
 10|😇😇|6398|Onyeka Okongwu|C|ATL-C|
-10|😇😇|5471|Myles Turner|C|MIL-C|
 10|😇😇|5660|Dejounte Murray|Util|NOP-PG|
 10|😇😇|10304|Ajay Mitchell|Util|OKC-PG,SG|
+10|😇😇|5471|Myles Turner|BN|MIL-C|
 10|😇😇|10443|Collin Murray-Boyles|BN|TOR-PF,C|
-10|😇😇|10571|Yaxel Lendeborg|BN|GSW-PF|
 10|😇😇|6173|Cameron Johnson|BN|DEN-SF,PF|
 11|Luxus|6413|Tyrese Maxey|PG|PHI-PG|
 11|Luxus|6559|Trey Murphy III|SG|NOP-SG,SF|
