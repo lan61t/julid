@@ -3,7 +3,7 @@ name: rebuild-julid
 on:
   workflow_dispatch:               # the "Run workflow" button (GitHub site or app, works from a phone)
   schedule:
-    - cron: "23 */3 * * *"         # every 3 hours: fresh injuries, schedule and box scores (GitHub may delay a run a few minutes)
+    - cron: "*/15 * * * *"         # every 15 minutes: fresh injuries, schedule and box scores (GitHub may delay a run a few minutes)
   push:
     paths:
       - "yahoo.json"          # a new Yahoo scrape was committed (bookmark flow or the PC refresh)
@@ -49,10 +49,10 @@ jobs:
 
       - name: Publish
         run: |
-          cp site/index.html index.html
+          cp site/index.html site/box.json .
           cp site/manifest.webmanifest site/icon.svg site/icon-180.png site/icon-192.png site/icon-512.png .
           git config user.name "julid-bot"
           git config user.email "julid-bot@users.noreply.github.com"
           mkdir -p data/live
-          git add index.html manifest.webmanifest icon.svg icon-180.png icon-192.png icon-512.png data/julid data/live
+          git add index.html box.json manifest.webmanifest icon.svg icon-180.png icon-192.png icon-512.png data/julid data/live
           git diff --cached --quiet || { git commit -q -m "rebuild $(date -u +%Y-%m-%dT%H:%MZ)"; git push -q; }
