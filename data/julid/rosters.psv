@@ -1,4 +1,4 @@
-# league 17676 Julid NBA League, 12 teams, scraped 2026-10-23T11:27:04.088Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
+# league 17676 Julid NBA League, 12 teams, scraped 2026-10-23T23:02:22.573Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
 1|The Black Order|6404|Tyrese Haliburton|PG|IND-PG,SG|
 1|The Black Order|6205|N. Alexander-Walker|SG|ATL-PG,SG|
 1|The Black Order|6016|Trae Young|G|WAS-PG|
@@ -9,7 +9,7 @@
 1|The Black Order|6402|Jalen Smith|C|CHI-PF,C|
 1|The Black Order|6420|Jaden McDaniels|Util|MIN-SF|
 1|The Black Order|10590|Darryn Peterson|Util|UTA-SG|
-1|The Black Order|3704|LeBron James|BN|PHI-SF,PF|
+1|The Black Order|3704|LeBron James|BN|PHI-SF,PF|Q
 1|The Black Order|6711|Christian Braun|BN|DEN-SG,SF,PF|
 1|The Black Order|10440|Jeremiah Fears|BN|NOP-PG,SG|
 1|The Black Order|6219|Nic Claxton|IL|CHI-C|O
@@ -23,7 +23,7 @@
 2|Mamba|5663|Ivica Zubac|C|IND-C|
 2|Mamba|10065|Toumani Camara|Util|POR-SF,PF|
 2|Mamba|6596|Sandro Mamukelashvili|Util|LAL-PF,C|
-2|Mamba|10115|Brandin Podziemski|BN|GSW-PG,SG|Q
+2|Mamba|10115|Brandin Podziemski|BN|GSW-PG,SG|P
 2|Mamba|5602|Jaylen Brown|BN|PHI-SG,SF,PF|
 2|Mamba|10465|Cedric Coward|BN|MEM-SG,SF|D
 3|J.R|6014|Luka Dončić|PG|LAL-PG,SG|
@@ -53,9 +53,9 @@
 4|Frontal II|6513|Jalen Green|BN|PHX-SG,SF|
 4|Frontal II|4563|James Harden|BN|CLE-PG,SG|
 4|Frontal II|5465|Mario Hezonja|BN|CLE-SF,PF|
-5|AK47 Shoot|10108|Amen Thompson|PG|HOU-PG,SG|
+5|AK47 Shoot|5842|Derrick White|PG|BOS-PG,SG|
 5|AK47 Shoot|10096|Ausar Thompson|SG|DET-SG,SF,PF|
-5|AK47 Shoot|5842|Derrick White|G|BOS-PG,SG|
+5|AK47 Shoot|10108|Amen Thompson|G|HOU-PG,SG|
 5|AK47 Shoot|10340|Jaylen Wells|SF|MEM-SG,SF|
 5|AK47 Shoot|10462|Ace Bailey|PF|UTA-SF,PF|
 5|AK47 Shoot|5007|Anthony Davis|F|WAS-PF,C|
@@ -94,7 +94,7 @@
 7|Win-D|6023|Miles Bridges|BN|PHX-PF|
 7|Win-D|10095|Anthony Black|IL|ORL-PG,SG,SF|O
 7|Win-D|5327|Jusuf Nurkić|IL|UTA-C|O
-8|Bebitoo’s Team|6548|Josh Giddey|PG|CHI-PG,SG|P
+8|Bebitoo’s Team|6548|Josh Giddey|PG|CHI-PG,SG|
 8|Bebitoo’s Team|4622|Jrue Holiday|SG|POR-PG,SG|
 8|Bebitoo’s Team|6167|Darius Garland|G|LAC-PG|
 8|Bebitoo’s Team|10272|Kyshawn George|SF|WAS-SG,SF,PF|
@@ -131,23 +131,23 @@
 10|😇😇|6398|Onyeka Okongwu|C|ATL-C|
 10|😇😇|5471|Myles Turner|C|MIL-C|
 10|😇😇|5660|Dejounte Murray|Util|NOP-PG|
-10|😇😇|10571|Yaxel Lendeborg|Util|GSW-PF|
+10|😇😇|10443|Collin Murray-Boyles|Util|TOR-PF,C|
+10|😇😇|10571|Yaxel Lendeborg|BN|GSW-PF|
 10|😇😇|10304|Ajay Mitchell|BN|OKC-PG,SG|
-10|😇😇|10443|Collin Murray-Boyles|BN|TOR-PF,C|
 10|😇😇|10585|Keaton Wagler|BN|LAC-SG|
 11|Luxus|6551|Davion Mitchell|PG|MIA-PG|
 11|Luxus|6559|Trey Murphy III|SG|NOP-SG,SF|
 11|Luxus|6433|Tre Jones|G|CHI-PG,SG|
 11|Luxus|6021|Mikal Bridges|SF|NYK-SF,PF|
-11|Luxus|10592|Cameron Boozer|PF|MEM-PF|
+11|Luxus|5432|Karl-Anthony Towns|PF|NYK-PF,C|
 11|Luxus|6698|Dyson Daniels|F|ATL-SG,SF|
 11|Luxus|10285|Donovan Clingan|C|POR-C|
 11|Luxus|6163|Zion Williamson|C|NOP-PF,C|
 11|Luxus|6580|Ayo Dosunmu|Util|MIN-PG,SG|
 11|Luxus|6164|Ja Morant|Util|POR-PG|
+11|Luxus|10592|Cameron Boozer|BN|MEM-PF|
 11|Luxus|6413|Tyrese Maxey|BN|PHI-PG|
 11|Luxus|6751|Collin Gillespie|BN|PHX-PG,SG|
-11|Luxus|5432|Karl-Anthony Towns|BN|NYK-PF,C|
 12|Loe's|5161|CJ McCollum|PG|ATL-PG,SG|
 12|Loe's|4896|Kawhi Leonard|SG|TOR-SG,SF,PF|
 12|Loe's|4612|Stephen Curry|G|GSW-PG|
