@@ -1,4 +1,4 @@
-# league 17676 Julid NBA League, 12 teams, scraped 2026-10-23T09:46:17.482Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
+# league 17676 Julid NBA League, 12 teams, scraped 2026-10-23T11:27:04.088Z. tid|team|yahoo_pid|name|slot|nba_team-positions|status
 1|The Black Order|6404|Tyrese Haliburton|PG|IND-PG,SG|
 1|The Black Order|6205|N. Alexander-Walker|SG|ATL-PG,SG|
 1|The Black Order|6016|Trae Young|G|WAS-PG|
@@ -13,7 +13,7 @@
 1|The Black Order|6711|Christian Braun|BN|DEN-SG,SF,PF|
 1|The Black Order|10440|Jeremiah Fears|BN|NOP-PG,SG|
 1|The Black Order|6219|Nic Claxton|IL|CHI-C|O
-2|Mamba|10115|Brandin Podziemski|PG|GSW-PG,SG|Q
+2|Mamba|10290|Stephon Castle|PG|SAS-PG,SG|
 2|Mamba|6512|Cade Cunningham|SG|DET-PG,SG|
 2|Mamba|6165|RJ Barrett|G|TOR-SG,SF,PF|
 2|Mamba|6515|Scottie Barnes|SF|TOR-SF,PF,C|
@@ -23,21 +23,21 @@
 2|Mamba|5663|Ivica Zubac|C|IND-C|
 2|Mamba|10065|Toumani Camara|Util|POR-SF,PF|
 2|Mamba|6596|Sandro Mamukelashvili|Util|LAL-PF,C|
+2|Mamba|10115|Brandin Podziemski|BN|GSW-PG,SG|Q
 2|Mamba|5602|Jaylen Brown|BN|PHI-SG,SF,PF|
 2|Mamba|10465|Cedric Coward|BN|MEM-SG,SF|D
-2|Mamba|10290|Stephon Castle|BN|SAS-PG,SG|
 3|J.R|6014|Luka Dončić|PG|LAL-PG,SG|
 3|J.R|6175|Tyler Herro|SG|MIL-PG,SG|
 3|J.R|6417|Immanuel Quickley|G|TOR-PG,SG|
 3|J.R|6550|Franz Wagner|SF|ORL-SF,PF|
-3|J.R|10296|Zaccharie Risacher|PF|DAL-SF,PF|
-3|J.R|6549|Jonathan Kuminga|F|MIN-SF,PF|
-3|J.R|5827|Bam Adebayo|C|MIA-PF,C|
+3|J.R|6549|Jonathan Kuminga|PF|MIN-SF,PF|
+3|J.R|5827|Bam Adebayo|F|MIA-PF,C|
 3|J.R|6703|Jalen Duren|C|DET-C|
+3|J.R|5640|Jakob Poeltl|C|TOR-C|
 3|J.R|10582|Darius Acuff Jr.|Util|SAC-PG|
 3|J.R|6733|Moussa Diabaté|Util|CHA-C|
+3|J.R|10296|Zaccharie Risacher|BN|DAL-SF,PF|
 3|J.R|6411|Saddiq Bey|BN|NOP-SF,PF|
-3|J.R|5640|Jakob Poeltl|BN|TOR-C|
 3|J.R|5318|Julius Randle|BN|BKN-PF|
 3|J.R|10599|AJ Dybantsa|IL|WAS-SF|O
 4|Frontal II|6355|Anthony Edwards|PG|MIN-PG,SG|
@@ -99,10 +99,10 @@
 8|Bebitoo’s Team|6167|Darius Garland|G|LAC-PG|
 8|Bebitoo’s Team|10272|Kyshawn George|SF|WAS-SG,SF,PF|
 8|Bebitoo’s Team|5765|Jayson Tatum|PF|BOS-SF,PF|
-8|Bebitoo’s Team|6694|Keegan Murray|F|SAC-SF,PF|
+8|Bebitoo’s Team|5642|Domantas Sabonis|F|SAC-PF,C|
 8|Bebitoo’s Team|10287|Zach Edey|C|MEM-C|
-8|Bebitoo’s Team|5642|Domantas Sabonis|C|SAC-PF,C|
-8|Bebitoo’s Team|10289|Yves Missi|Util|NOP-C|
+8|Bebitoo’s Team|10289|Yves Missi|C|NOP-C|
+8|Bebitoo’s Team|6694|Keegan Murray|Util|SAC-SF,PF|
 8|Bebitoo’s Team|5187|Dennis Schröder|Util|CHA-PG,SG|
 8|Bebitoo’s Team|10276|Jared McCain|BN|OKC-PG,SG|
 8|Bebitoo’s Team|6720|Peyton Watson|BN|CLE-SF,PF|
