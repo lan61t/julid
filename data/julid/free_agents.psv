@@ -1,39 +1,41 @@
-# Yahoo league 17676 free agents by % owned, scraped 2026-11-16T01:05:25.966Z. pid|name|[status ]NBA-positions|%owned
-5636|Kris Dunn|LAC - PG,SG|37%
-5292|Andrew Wiggins|MIA - SG,SF,PF|61%
-6171|Rui Hachimura|LAC - SF,PF|63%
-10333|Jamal Shead|TOR - PG|20%
+# Yahoo league 17676 free agents by % owned, scraped 2026-11-16T23:02:40.502Z. pid|name|[status ]NBA-positions|%owned
+5636|Kris Dunn|LAC - PG,SG|32%
+6021|Mikal Bridges|NYK - SF,PF|75%
+5292|Andrew Wiggins|MIA - SG,SF,PF|60%
+10276|Jared McCain|OKC - PG,SG|52%
+6171|Rui Hachimura|LAC - SF,PF|59%
+10333|Jamal Shead|TOR - PG|19%
 6433|Tre Jones|CHI - PG,SG|20%
-10576|Brayden Burries|MIL - SG|24%
-10574|Kingston Flemings|O ATL - PG|11%
+10576|Brayden Burries|MIL - SG|22%
+10574|Kingston Flemings|Q ATL - PG|9%
 4614|DeMar DeRozan|DEN - SF,PF|32%
-6567|Quentin Grimes|LAL - SG,SF|18%
-10280|Terrence Shannon Jr.|MIN - SG,SF|8%
-6564|Isaiah Jackson|LAC - C|11%
-6745|Gui Santos|Q GSW - SF,PF|8%
-10445|Egor Dëmin|BKN - PG,SG|28%
+6567|Quentin Grimes|LAL - SG,SF|19%
+10280|Terrence Shannon Jr.|MIN - SG,SF|9%
+6564|Isaiah Jackson|LAC - C|10%
+6745|Gui Santos|Q GSW - SF,PF|7%
+10445|Egor Dëmin|BKN - PG,SG|27%
 10588|Mikel Brown Jr.|BKN - PG|15%
 6724|Jaylin Williams|O OKC - PF,C|3%
 5187|Dennis Schröder|O CHA - PG,SG|6%
 6218|Kevin Porter Jr.|NA MIL - PG,SG|8%
 6406|Aaron Nesmith|IND - SG,SF|14%
-10282|Isaiah Collier|UTA - PG,SG|8%
+10282|Isaiah Collier|UTA - PG,SG|6%
 6696|Bennedict Mathurin|O NOP - SG,SF|5%
-6047|Mitchell Robinson|BOS - C|15%
-5350|Jerami Grant|MEM - SF,PF|16%
+6047|Mitchell Robinson|BOS - C|16%
+5350|Jerami Grant|MEM - SF,PF|17%
 5069|Draymond Green|GSW - PF,C|33%
 6709|Jake LaRavia|LAL - SF,PF|6%
-5747|Derrick Jones Jr.|LAC - SF,PF|23%
 6577|Herbert Jones|NOP - SG,SF|9%
 10313|Oso Ighodaro|PHX - C|7%
-5958|Deandre Ayton|WAS - C|6%
-10460|Joan Beringer|MIN - PF,C|8%
+5958|Deandre Ayton|WAS - C|5%
+10460|Joan Beringer|MIN - PF,C|9%
 10459|Hugo González|BOS - SG,SF|1%
 6757|Scotty Pippen Jr.|O MEM - PG|4%
-6216|Jordan Poole|NOP - PG,SG|6%
+6216|Jordan Poole|NOP - PG,SG|9%
 6753|Keon Ellis|BKN - SG,SF|2%
-5840|Kyle Kuzma|MIL - SF,PF|27%
-4901|Tobias Harris|O SAS - PF|14%
+5840|Kyle Kuzma|MIL - SF,PF|25%
+6073|Duncan Robinson|O DET - SG,SF|57%
+4901|Tobias Harris|O SAS - PF|13%
 4897|Nikola Vučević|ORL - C|5%
 4245|Al Horford|GSW - PF,C|3%
 5464|Kristaps Porziņģis|O GSW - C|10%
@@ -41,13 +43,12 @@
 10315|Kyle Filipowski|UTA - PF,C|3%
 5482|Bobby Portis Jr.|MIA - PF,C|17%
 6035|Anfernee Simons|PHI - PG,SG|11%
-10572|Morez Johnson Jr.|DAL - PF|9%
-10279|Jaylon Tyson|Q CLE - SG,SF,PF|8%
+10572|Morez Johnson Jr.|DAL - PF|7%
+10279|Jaylon Tyson|O CLE - SG,SF,PF|8%
 5194|Tim Hardaway Jr.|MIA - SG,SF|3%
-10277|Baylor Scheierman|BOS - SG,SF|2%
-6408|Isaiah Stewart|Q MEM - PF,C|12%
-10510|Dylan Cardwell|SAC - PF,C|7%
-5754|Alex Caruso|OKC - SG,SF|30%
+10277|Baylor Scheierman|BOS - SG,SF|3%
+6408|Isaiah Stewart|O MEM - PF,C|11%
+10510|Dylan Cardwell|SAC - PF,C|6%
 6619|Sam Hauser|BOS - SF,PF|5%
 5824|Malik Monk|SAC - PG,SG|4%
 10449|Will Riley|WAS - SF,PF|1%
@@ -58,60 +59,59 @@
 10122|Brice Sensabaugh|UTA - SG,SF,PF|4%
 10101|Gradey Dick|LAC - SG,SF|2%
 6617|Jay Huff|IND - C|3%
-6412|Precious Achiuwa|O SAC - PF,C|24%
+6412|Precious Achiuwa|Q SAC - PF,C|22%
 10070|GG Jackson|O MEM - SF,PF,C|2%
 10496|Maxime Raynaud|O SAC - C|14%
-10099|Bilal Coulibaly|WAS - SG,SF|7%
-6568|Bones Hyland|MIN - PG,SG|15%
+10099|Bilal Coulibaly|WAS - SG,SF|8%
 10570|Allen Graves|TOR - PF|1%
-6170|Jaxson Hayes|O UTA - C|20%
+6170|Jaxson Hayes|Q UTA - C|18%
 10050|Leonard Miller|CHI - SF,PF|1%
-6400|Obi Toppin|IND - SF,PF|14%
-6552|Ziaire Williams|LAL - SG,SF|12%
+6400|Obi Toppin|IND - SF,PF|12%
+6552|Ziaire Williams|LAL - SG,SF|11%
 10470|Kobe Sanders|LAC - SG,SF|2%
 5905|Royce O'Neale|CHA - SF,PF|2%
 6256|Dean Wade|PHI - SF,PF|2%
 5317|Marcus Smart|O HOU - PG,SG|2%
 10469|Nique Clifford|OKC - SG,SF|2%
-6217|Keldon Johnson|SAS - SF,PF|11%
-10573|Bennett Stirtz|OKC - PG|5%
+6217|Keldon Johnson|SAS - SF,PF|12%
+10573|Bennett Stirtz|OKC - PG|3%
 10607|Trevon Brazile|DEN - PF|3%
-10448|Tre Johnson|O WAS - PG,SG,SF|4%
+10448|Tre Johnson|WAS - PG,SG,SF|3%
 10452|Kasparas Jakučionis|MIL - PG,SG|2%
-6254|Luguentz Dort|ATL - SG,SF|6%
+6254|Luguentz Dort|ATL - SG,SF|5%
 5959|Marvin Bagley III|DEN - PF,C|1%
-6717|Nikola Jović|MIA - PF,C|1%
+6717|Nikola Jović|O MIA - PF,C|1%
 10335|Adem Bona|O PHI - C|1%
 10273|Bub Carrington|WAS - PG,SG|1%
-5015|Andre Drummond|NYK - C|11%
+5015|Andre Drummond|NYK - C|10%
 6705|Mark Williams|O PHX - C|7%
-10121|Noah Clowney|BKN - PF,C|3%
+10121|Noah Clowney|BKN - PF,C|4%
 6786|Daeqwon Plowden|SAC - SG,SF|0%
 5823|Zach Collins|CHI - C|1%
-10107|Cason Wallace|O OKC - PG,SG,SF|21%
+10107|Cason Wallace|O OKC - PG,SG,SF|20%
 6028|Donte DiVincenzo|O MIN - SG,SF|2%
-5903|Luke Kornet|SAS - C|2%
-6725|Max Christie|O DAL - SG,SF|2%
+5903|Luke Kornet|SAS - C|1%
+6725|Max Christie|Q DAL - SG,SF|2%
 6269|Javonte Green|DET - SG,SF|1%
-6632|Justin Champagnie|O WAS - SF,PF|2%
 5825|Luke Kennard|PHX - SG,SF|2%
-6616|Jordan Goodwin|PHX - PG,SG|6%
+6632|Justin Champagnie|O WAS - SF,PF|2%
+6616|Jordan Goodwin|PHX - PG,SG|7%
 5013|Harrison Barnes|SAS - PF|1%
 6441|Isaiah Joe|O DET - SG,SF|2%
 6755|AJ Green|MIL - PG,SG,SF|1%
-6206|Goga Bitadze|ORL - C|1%
 6452|Sam Merrill|O CLE - SG,SF|2%
+6206|Goga Bitadze|ORL - C|1%
 6556|Moses Moody|O GSW - SG,SF,PF|1%
-10263|Ronald Holland II|DET - SF,PF|2%
 5739|Gary Payton II|GSW - SG,SF|1%
+10263|Ronald Holland II|O DET - SF,PF|1%
 4390|Russell Westbrook|NA SAC - PG,SG|0%
-6742|Karlo Matković|NOP - PF,C|8%
+6742|Karlo Matković|NOP - PF,C|6%
 5159|K. Caldwell-Pope|PHI - SG,SF|2%
 6053|Bruce Brown|NA NYK - PG,SG|0%
-10292|Ryan Dunn|PHX - SF,PF|2%
-6572|Santi Aldama|O DAL - PF|12%
+10292|Ryan Dunn|Q PHX - SF,PF|2%
+6572|Santi Aldama|Q DAL - PF|9%
 6679|Brandon Williams|O GSW - PG|2%
-6614|Jock Landale|O ATL - C|1%
+6614|Jock Landale|Q ATL - C|1%
 6791|Dominick Barlow|O PHI - PF,C|0%
 6613|Jose Alvarado|NYK - PG|1%
 6652|Dru Smith|MIA - PG,SG|0%
@@ -123,79 +123,79 @@
 10485|Will Richard|GSW - SG,SF|1%
 10075|Jordan Walsh|BOS - SF,PF|1%
 6594|Luka Garza|BOS - C|1%
-10498|Sion James|CHA - SG,SF|4%
+10498|Sion James|CHA - SG,SF|3%
 5336|Clint Capela|O HOU - C|1%
 10308|Quinten Post|O MEM - C|0%
 10145|Craig Porter Jr.|CLE - PG,SG|0%
-5637|Buddy Hield|CHI - SG,SF|1%
+5637|Buddy Hield|CHI - SG,SF|3%
+6776|Quenton Jackson|IND - PG,SG|7%
 6236|Terance Mann|BKN - SG,SF|0%
 6766|Simone Fontecchio|MIA - SF,PF|0%
 10069|Mouhamed Gueye|O ATL - PF,C|0%
-4487|Nicolas Batum|NA LAC - SF,PF|0%
+10461|Walter Clayton Jr.|DAL - PG,SG|4%
 5855|Thomas Bryant|CLE - C|1%
-6396|Patrick Williams|CHI - SF,PF|8%
-6776|Quenton Jackson|IND - PG,SG|7%
-10461|Walter Clayton Jr.|DAL - PG,SG|7%
-4246|Mike Conley|BOS - PG|0%
-5073|Khris Middleton|WAS - SF,PF|1%
+4487|Nicolas Batum|NA LAC - SF,PF|0%
+6396|Patrick Williams|CHI - SF,PF|11%
 6031|Josh Okogie|UTA - SG,SF|0%
+5073|Khris Middleton|WAS - SF,PF|1%
+6076|Kenrich Williams|OKC - PF,C|5%
+6557|Corey Kispert|ATL - SG,SF|0%
+4246|Mike Conley|BOS - PG|0%
 5484|Tyus Jones|DEN - PG|0%
 5651|Caris LeVert|MIL - SG,SF|0%
 10113|Ben Sheppard|O IND - SG,SF|0%
-6076|Kenrich Williams|OKC - PF,C|5%
-10110|Taylor Hendricks|MEM - PF,C|2%
-6557|Corey Kispert|ATL - SG,SF|0%
+10110|Taylor Hendricks|MEM - PF,C|8%
 6655|Micah Potter|POR - PF,C|0%
 6735|Josh Minott|BKN - SF,PF|0%
 5341|Kyle Anderson|TOR - SF,PF|0%
+6048|Gary Trent Jr.|MIL - SG,SF|0%
 10393|Spencer Jones|DEN - SF,PF|1%
 10310|Justin Edwards|PHI - SF,PF|0%
 10116|Olivier-Maxence Prosper|MEM - SF,PF,C|0%
-6052|Jarred Vanderbilt|LAL - PF,C|0%
+6058|Svi Mykhailiuk|UTA - SG,SF|0%
 5357|Jordan Clarkson|NYK - SG,SF|1%
+6052|Jarred Vanderbilt|LAL - PF,C|0%
 10084|Jordan Miller|O LAC - SG,SF|0%
 5647|Guerschon Yabusele|NA CHI - PF,C|0%
 10119|Kris Murray|MEM - SG,SF|0%
-6058|Svi Mykhailiuk|UTA - SG,SF|0%
-6048|Gary Trent Jr.|MIL - SG,SF|0%
-10494|Javon Small|MEM - PG,SG|1%
+10494|Javon Small|MEM - PG,SG|2%
 6410|Josh Green|UTA - SG,SF|0%
+10051|Sidy Cissoko|POR - SF,PF|7%
 10283|Cody Williams|MIN - SG,SF|0%
-10051|Sidy Cissoko|POR - SF,PF|6%
+10455|Nolan Traore|BKN - PG|19%
 6600|Jericho Sims|MIL - PF,C|0%
-10455|Nolan Traore|BKN - PG|20%
-6704|Ochai Agbaji|NA OKC - SG,SF|0%
 10397|Nae'Qwan Tomlin|O CLE - SF,PF|0%
+6704|Ochai Agbaji|NA OKC - SG,SF|0%
 6772|Pat Spencer|PHX - PG,SG|0%
+6275|Caleb Martin|DAL - SF,PF|3%
 6043|Jevon Carter|ORL - PG,SG|0%
 6604|Trendon Watford|O NOP - PF|0%
 10489|Jamir Watkins|O WAS - SG,SF|0%
 10112|Julian Strawther|O DEN - SG,SF|0%
 10086|Jaylen Clark|O MIN - SG,SF|0%
-5643|Taurean Prince|DET - SF,PF|0%
-6275|Caleb Martin|DAL - SF,PF|3%
-10078|Tristan Vukcevic|O WAS - C|0%
+5643|Taurean Prince|O DET - SF,PF|0%
 6471|Anthony Gill|WAS - PF,C|0%
-6036|Moritz Wagner|BKN - C|8%
+10078|Tristan Vukcevic|O WAS - C|0%
 6747|Jabari Walker|PHI - PF|1%
+6036|Moritz Wagner|BKN - C|8%
 6701|Ousmane Dieng|O MIL - SF,PF|0%
-10391|Jamison Battle|TOR - SF,PF|3%
-10117|Kobe Brown|IND - SF,PF|0%
 10314|Tyler Kolek|NYK - PG,SG|1%
+10391|Jamison Battle|TOR - SF,PF|2%
+10117|Kobe Brown|IND - SF,PF|0%
 10064|Rayan Rupert|PHI - SG,SF|0%
 5356|Dwight Powell|NA DAL - C|0%
-5764|Lonzo Ball|NA CLE - PG,SG|0%
-10295|Tidjane Salaün|CHA - PF,C|1%
 6210|Grant Williams|CHA - PF,C|2%
+10295|Tidjane Salaün|CHA - PF,C|1%
+5764|Lonzo Ball|NA CLE - PG,SG|0%
 6730|Bryce McGowens|O NOP - SG,SF|0%
 10511|Ryan Nembhard|DEN - PG|0%
-6695|Jaden Ivey|NA CHI - PG,SG|0%
 5338|Bogdan Bogdanović|HOU - PG,SG,SF|1%
+6695|Jaden Ivey|NA CHI - PG,SG|0%
 10466|Carter Bryant|SAS - SF,PF|1%
 10457|Drake Powell|BKN - PG,SG|0%
 10342|Branden Carlson|POR - C|0%
 6034|Aaron Holiday|NA HOU - PG|0%
-4391|Kevin Love|NA UTA - PF,C|0%
 10497|Micah Peavy|OKC - SF,PF|0%
+4391|Kevin Love|NA UTA - PF,C|0%
 6353|Gabe Vincent|NA ATL - PG,SG|0%
-5768|Jonathan Isaac|O ORL - PF,C|0%
+6737|Vince Williams Jr.|NA UTA - PG,SG|0%
